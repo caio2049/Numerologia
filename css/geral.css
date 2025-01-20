@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(122, 2, 122);
+}
+
+.pacifico-regular {
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: goldenrod;
+}
+
+.tangerine-regular {
+  font-family: "Tangerine", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+.tangerine-bold {
+  font-family: "Tangerine", serif;
+  font-weight: 700;
+  font-style: normal;
+}
